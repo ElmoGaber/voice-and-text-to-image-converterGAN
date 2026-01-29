@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
@@ -27,7 +27,7 @@
     "Python.project.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Desktop/programing/full peojects/voice-and-text-to-image-converter-generative-AI-main"
+    "last_opened_file_path": "D:/Desktop/programing/full peojects/VoiceDraw-Voice-to-Image-Generation-App--Generative-AI-Project-main"
   }
 }]]></component>
   <component name="SharedIndexes">
